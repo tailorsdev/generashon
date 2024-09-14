@@ -37,9 +37,7 @@
           </p>
         </div>
       </div>
-      <div
-        class="bg-black w-5/6 h-60 md:w-1/2 m-auto md:h-80 mt-10 md:mt-20 rounded-lg"
-      ></div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/I-8djD5dJmM?si=oEB5-PBjEtTzkInP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
       <div class="fixed bottom-0 bg-[#ffde59] w-full">
         <h2 class="text-[#1e214b] text-center font-bold py-2 text-xl">
